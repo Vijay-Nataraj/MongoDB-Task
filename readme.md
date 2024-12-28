@@ -36,7 +36,7 @@ Clone the repository to your local machine:
 
 #### 1. Find all the topics and tasks which are thought in the month of October
 
-```json
+```bash
 
    db.getCollection('topics').find(
    {
@@ -112,7 +112,7 @@ db.getCollection('tasks').aggregate([
 
 #### 2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
 
-```json
+```bash
 
    db.getCollection('company_drives').find(
    {
@@ -126,7 +126,7 @@ db.getCollection('tasks').aggregate([
 
 #### 3. Find all the company drives and students who are appeared for the placement.
 
-```json
+```bash
 
    db.getCollection('company_drives').find(
    {},
@@ -139,7 +139,7 @@ db.getCollection('tasks').aggregate([
 
 #### 4. Find the number of problems solved by the user in codekata
 
-```json
+```bash
 
    db.getCollection('codekata').aggregate(
    [
@@ -155,7 +155,7 @@ db.getCollection('tasks').aggregate([
 
 #### 5. Find all the mentors with who has the mentee's count more than 15
 
-```json
+```bash
 
    db.getCollection('mentors').find(
       {
@@ -167,7 +167,7 @@ db.getCollection('tasks').aggregate([
 
 #### 6. Find the number of users who are absent and task is not submitted between 15 oct-2020 and 31-oct-2020
 
-```json
+```bash
 
 db.users.aggregate([
   {
