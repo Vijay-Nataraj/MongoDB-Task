@@ -1,0 +1,147 @@
+[
+  {
+    "user_email": "alice@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-10",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "user_email": "bob@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-15",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "user_email": "charlie@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-16",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "user_email": "david@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "absent"
+      },
+      {
+        "date": "2020-10-18",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "user_email": "eva@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-22",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "676efa4cf6ca2d667a6b138d"
+    },
+    "user_email": "frank@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-07",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "676efa4cf6ca2d667a6b138e"
+    },
+    "user_email": "grace@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-08",
+        "status": "present"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "676efa4cf6ca2d667a6b138f"
+    },
+    "user_email": "hank@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "absent"
+      },
+      {
+        "date": "2020-10-09",
+        "status": "present"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "676efa4cf6ca2d667a6b1390"
+    },
+    "user_email": "ivy@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-20",
+        "status": "absent"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "676efa4cf6ca2d667a6b1391"
+    },
+    "user_email": "jack@example.com",
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-21",
+        "status": "present"
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b1347"
+    },
+    "topic_name": "Introduction to Programming",
+    "date": "2020-10-01"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b1348"
+    },
+    "topic_name": "Java Script",
+    "date": "2020-10-02"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b1349"
+    },
+    "topic_name": "HTML and CSS",
+    "date": "2020-10-03"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b134a"
+    },
+    "topic_name": "Tailwind css",
+    "date": "2020-10-04"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b134b"
+    },
+    "topic_name": "Bootstrap",
+    "date": "2020-10-10"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b134c"
+    },
+    "topic_name": "Advanced Java Script",
+    "date": "2020-10-05"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b134d"
+    },
+    "topic_name": "React JS",
+    "date": "2020-10-06"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b134e"
+    },
+    "topic_name": "MYSQL",
+    "date": "2020-10-07"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b134f"
+    },
+    "topic_name": "MongoDB",
+    "date": "2020-10-08"
+  },
+  {
+    "_id": {
+      "$oid": "676ee425f6ca2d667a6b1350"
+    },
+    "topic_name": "Node JS",
+    "date": "2020-10-09"
+  }
+]

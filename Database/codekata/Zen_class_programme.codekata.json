@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b1395"
+    },
+    "user_email": "alice@example.com",
+    "problems_solved": 15,
+    "date": "2020-10-01"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b1396"
+    },
+    "user_email": "bob@example.com",
+    "problems_solved": 25,
+    "date": "2020-10-02"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b1397"
+    },
+    "user_email": "charlie@example.com",
+    "problems_solved": 10,
+    "date": "2020-10-03"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b1398"
+    },
+    "user_email": "david@example.com",
+    "problems_solved": 5,
+    "date": "2020-10-04"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b1399"
+    },
+    "user_email": "eva@example.com",
+    "problems_solved": 20,
+    "date": "2020-10-05"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b139a"
+    },
+    "user_email": "frank@example.com",
+    "problems_solved ": 30,
+    "date": "2020-10-06"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b139b"
+    },
+    "user_email": "grace@example.com",
+    "problems_solved": 18,
+    "date": "2020-10-07"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b139c"
+    },
+    "user_email": "hank@example.com",
+    "problems_solved": 12,
+    "date": "2020-10-08"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b139d"
+    },
+    "user_email": "ivy@example.com",
+    "problems_solved": 22,
+    "date": "2020-10-09"
+  },
+  {
+    "_id": {
+      "$oid": "676efa61f6ca2d667a6b139e"
+    },
+    "user_email": "jack@example.com",
+    "problems_solved": 28,
+    "date": "2020-10-10"
+  }
+]

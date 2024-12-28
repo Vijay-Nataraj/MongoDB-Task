@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {
+      "$oid": "676ef150f6ca2d667a6b1375"
+    },
+    "company_name": "Tech Corp",
+    "date": "2020-10-16",
+    "participants": ["Alice", "Bob"]
+  },
+  {
+    "_id": {
+      "$oid": "676ef150f6ca2d667a6b1376"
+    },
+    "company_name": "Innovate Inc",
+    "date": "2020-10-20",
+    "participants": ["Charlie", "David"]
+  },
+  {
+    "_id": {
+      "$oid": "676ef150f6ca2d667a6b1377"
+    },
+    "company_name": "Future Solutions",
+    "date": "2020-10-22",
+    "participants": ["Eva", "Frank"]
+  },
+  {
+    "_id": {
+      "$oid": "676ef150f6ca2d667a6b1378"
+    },
+    "company_name": "Global Tech",
+    "date": "2020-10-25",
+    "participants": ["Grace", "Hank"]
+  },
+  {
+    "_id": {
+      "$oid": "676ef150f6ca2d667a6b1379"
+    },
+    "company_name": "NextGen",
+    "date": "2020-10-30",
+    "participants": ["Ivy", "Jack"]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b135b"
+    },
+    "task_name": "HTML/CSS Landing Page Task",
+    "due_date": "2020-10-05",
+    "submitted": false
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b135c"
+    },
+    "task_name": "Create Landing Page",
+    "due_date": "2020-10-10",
+    " submitted": true
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b135d"
+    },
+    "task_name": "Build a simple JavaScript application",
+    "due_date": "2020-10-15",
+    "submitted": false
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b135e"
+    },
+    "task_name": "Todo App",
+    "due_date": "2020-10-20",
+    "submitted": false
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b135f"
+    },
+    "task_name": "React Model",
+    "due_date": "2020-10-07",
+    "submitted": true
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b1360"
+    },
+    "task_name": "Router Task",
+    "due_date": "2020-10-25",
+    "submitted": false
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b1361"
+    },
+    "task_name": "SQL Task",
+    "due_date": "2020-10-30",
+    "submitted": true
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b1362"
+    },
+    "task_name": "Movie Searching App",
+    "due_date": "2020-10-12",
+    "submitted": false
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b1363"
+    },
+    "task_name": "Design DB - Zenclass",
+    "due_date": "2020-10-18",
+    "submitted": false
+  },
+  {
+    "_id": {
+      "$oid": "676ee5e2f6ca2d667a6b1364"
+    },
+    "task_name": "Recipes App",
+    "due_date": "2020-10-28",
+    "submitted": false
+  }
+]

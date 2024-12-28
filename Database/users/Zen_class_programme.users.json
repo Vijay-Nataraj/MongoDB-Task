@@ -1,0 +1,192 @@
+[
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a2"
+    },
+    "name": "Alice",
+    "email": "alice@example.com",
+    "codekata_solved": 15,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-10",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor1"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a3"
+    },
+    "name": "Bob",
+    "email": "bob@example.com",
+    "codekata_solved": 25,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-15",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor1"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a4"
+    },
+    "name": "Charlie",
+    "email": "charlie@example.com",
+    "codekata_solved": 10,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-16",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor2"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a5"
+    },
+    "name": "David",
+    "email": "david@example.com",
+    "codekata_solved": 5,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "absent"
+      },
+      {
+        "date": "2020-10-18",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor2"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a6"
+    },
+    "name": "Eva",
+    "email": "eva@example.com",
+    "codekata_solved": 20,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-22",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor3"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a7"
+    },
+    "name": "Frank",
+    "email": "frank@example.com",
+    "codekata_solved": 30,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-07",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor3"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a8"
+    },
+    "name": "Grace",
+    "email": "grace@example.com",
+    "codekata_solved": 18,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-08",
+        "status": "present"
+      }
+    ],
+    "mentor_id": "mentor4"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13a9"
+    },
+    "name": "Hank",
+    "email": "hank@example.com",
+    "codekata_solved": 12,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "absent"
+      },
+      {
+        "date": "2020-10-09",
+        "status": "present"
+      }
+    ],
+    "mentor_id": "mentor4"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13aa"
+    },
+    "name": "Ivy",
+    "email": "ivy@example.com",
+    "codekata_solved": 22,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-20",
+        "status": "absent"
+      }
+    ],
+    "mentor_id": "mentor5"
+  },
+  {
+    "_id": {
+      "$oid": "676efa83f6ca2d667a6b13ab"
+    },
+    "name": "Jack",
+    "email": "jack@example.com",
+    "codekata_solved": 28,
+    "attendance": [
+      {
+        "date": "2020-10-01",
+        "status": "present"
+      },
+      {
+        "date": "2020-10-21",
+        "status": "present"
+      }
+    ],
+    "mentor_id": "mentor5"
+  }
+]
